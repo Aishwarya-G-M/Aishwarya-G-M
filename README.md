@@ -49,9 +49,13 @@ manufacturing, and hospitality domains.
 
 ## 📬 Let's connect
 
-Open to senior/mid-level **backend** and **data engineering** roles.
-Curious about research-adjacent and exploratory roles across new tech stacks.
-Willing to relocate. Based in Bengaluru, India.
+Open to senior/mid-level roles in:
+- **Backend** and **Data Engineering**
+- **AI Search** and **LLM-powered services**
+- **Trust & Safety** and research-oriented positions in the AI space
+
+Happy to explore roles outside my current tech stack and comfort zone.
+Willing to relocate.
 
 ✉️ [aishwarya.govindappamahadev@gmail.com](mailto:aishwarya.govindappamahadev@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/aishwarya-govindappa-mahadev/)
