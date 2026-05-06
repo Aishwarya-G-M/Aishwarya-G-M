@@ -6,7 +6,7 @@ services in AI search space. Experience with fintech, manufacturing,
 and hospitality domains.
 
 📄 [View my resume](./Aishwarya_Govindappa_Mahadevv.pdf)  
-🔗 [LinkedIn](https://www.linkedin.com/in/aishwarya-govindappa-mahadev/)
+🔗 [LinkedIn](https://www.linkedin.com/in/aishwarya-govindappa-mahadev/) 
 🐙 [Older work → AishwaryaPSU](https://github.com/AishwaryaPSU)
 
 ---
