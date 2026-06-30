@@ -4,7 +4,7 @@ Software engineer with 5.5+ years of experience building high-scale backend syst
 data pipelines, LLM-powered services, and AI search systems across fintech,
 manufacturing, and hospitality domains.
 
-📄 [View my resume](./Aishwarya_Govindappa_Mahadevv.pdf)
+📄 [View my resume](./AishwaryjaGM.pdf)
 🔗 [LinkedIn](https://www.linkedin.com/in/aishwarya-govindappa-mahadev/)
 🐙 [Older work → AishwaryaPSU](https://github.com/AishwaryaPSU)
 
