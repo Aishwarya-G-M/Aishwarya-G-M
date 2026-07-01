@@ -13,7 +13,7 @@ manufacturing, hospitality and consultancy domains.
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | **Secure LLM Gateway** | Mitigation framework for OWASP LLM risks | [View Repo](https://github.com/Aishwarya-G-M/secure-llm-gateway) |
-| **Spark-Scala Explore** | Data pipeline and Kaggle processing engine | [View Repo] (https://github.com/Aishwarya-G-M/spark-scala-explore) |
+| **Spark-Scala Explore** | Data pipeline and Kaggle processing engine | [View Repo](https://github.com/Aishwarya-G-M/spark-scala-explore) |
 | **FAIR Assessment Orchestrator** | FastAPI automation suite for FAIR data evaluation | [View Repo](https://github.com/Aishwarya-G-M/fair-assessment-orchestrator) |
 
 ---
