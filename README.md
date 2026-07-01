@@ -8,6 +8,14 @@ manufacturing, hospitality and consultancy domains.
 🔗 [LinkedIn](https://www.linkedin.com/in/aishwarya-govindappa-mahadev/)
 🐙 [Older work → AishwaryaPSU](https://github.com/AishwaryaPSU)
 
+## 🚀 Featured Projects
+
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Secure LLM Gateway** | Mitigation framework for OWASP LLM risks | [View Repo]([https://github.com](https://github.com/Aishwarya-G-M/secure-llm-gateway)) |
+| **Spark-Scala Explore** | Data pipeline and Kaggle processing engine | [View Repo]([https://github.com](https://github.com/Aishwarya-G-M/spark-scala-explore)) |
+| **FAIR Assessment Orchestrator** | FastAPI automation suite for FAIR data evaluation | [View Repo]([https://github.com](https://github.com/Aishwarya-G-M/fair-assessment-orchestrator)) |
+
 ---
 
 ## 🛠️ What I work with
