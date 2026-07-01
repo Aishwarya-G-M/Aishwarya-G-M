@@ -1,8 +1,8 @@
 # Hi, I'm Aishwarya 👋
 
-Software engineer with 5.5+ years of experience building high-scale backend systems,
+Software engineer with 6 years of experience building high-scale backend systems,
 data pipelines, LLM-powered services, and AI search systems across fintech,
-manufacturing, and hospitality domains.
+manufacturing, hospitality and consultancy domains.
 
 📄 [View my resume](./AishwaryjaGM.pdf)
 🔗 [LinkedIn](https://www.linkedin.com/in/aishwarya-govindappa-mahadev/)
@@ -25,8 +25,9 @@ manufacturing, and hospitality domains.
 ## 🔭 What's happening
 
 - Actively interviewing for backend & data engineering roles, open to relocation
-- Building Scala + Spark data pipeline projects
-- Exploring LLM infra: caching, guardrails, and observability
+- Exploring and building personal projects around
+   - LLM infra: caching, guardrails, and observability
+   - FAIR Data assessment tools and wrappers around it
 - Exploring trust and safety in AI search systems
 
 ---
@@ -36,6 +37,7 @@ manufacturing, and hospitality domains.
 **Airbnb (via Altimetrik)** – AI Search & Knowledge Graph
 > Built a shared LLM caching library, multi-layer Redis caching, regex-based
 > guardrails, and modernized high-volume Spark pipelines.
+> Worked across the SDLC flow - Setting up CICD pipelines, setting up redis cache using terraform, setting up alerts and metrics
 
 **Credit Suisse (via Zuhlke)** – Wealth Management Platform
 > Delivered production REST microservices for portfolio, trading, and advisory
@@ -50,7 +52,7 @@ manufacturing, and hospitality domains.
 ## 📬 Let's connect
 
 Open to senior/mid-level roles in:
-- **Backend** and **Data Engineering**
+- **Backend** , **AI Engineer** and **Data Engineering**
 - **AI Search** and **LLM-powered services**
 - **Trust & Safety** and research-oriented positions in the AI space
 
