@@ -30,16 +30,6 @@ manufacturing, hospitality and consultancy domains.
 
 ---
 
-## 🔭 What's happening
-
-- Actively interviewing for backend & data engineering roles, open to relocation
-- Exploring and building personal projects around
-   - LLM infra: caching, guardrails, and observability
-   - FAIR Data assessment tools and wrappers around it
-- Exploring trust and safety in AI search systems
-
----
-
 ## 💼 Experience highlights
 
 **Airbnb (via Altimetrik)** – AI Search & Knowledge Graph
@@ -54,6 +44,23 @@ manufacturing, hospitality and consultancy domains.
 **Garmin** – MES Backend for BMW Infotainment Manufacturing
 > Designed REST APIs, Oracle schemas, CI/CD pipelines, and Grafana monitoring
 > for production-critical manufacturing systems.
+
+---
+
+## Certifications
+- Generative AI For Everyone [View](certifications/Generative_AI_For_Everyone.pdf)
+- Introduction To Responsible AI [View](certifications/IntroductionToResponsibleAI.pdf)
+- Prompt Engineering Course [View](certifications/PromptEngineering.pdf)
+- Trustworthy Generative AI [View](certifications/TrustworthyGenerativeAI.pdf)
+
+
+## 🔭 What's happening
+
+- Actively interviewing for backend & data engineering roles, open to relocation
+- Exploring and building personal projects around
+   - LLM infra: caching, guardrails, and observability
+   - FAIR Data assessment tools and wrappers around it
+- Exploring trust and safety in AI search systems
 
 ---
 
